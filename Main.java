@@ -20,6 +20,8 @@ public class Main
 
         switch (option) {
 	    //put your case below this comment
+            case 4:
+                Division.calculate(operator1, operator2);
         }
     }
 }
